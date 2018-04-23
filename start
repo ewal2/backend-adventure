@@ -1,1 +1,14 @@
 https://c9.io/ewal2 cloud9
+
+
+Update January 3rd, 2018: If you're using AWS or Codeanywhere then you can find all solution files/code here -https://github.com/nax3t/webdevbootcamp
+
+Congratulations on making it to the backend section of this course!
+
+This is a quick note to explain where you can find solution code from here on out. Every single bit of code I type from now until the end of the course is available on this course's publicly visible Cloud9 workspace: https://ide.c9.io/learnwithcolt/webdevbootcamp
+
+I recommend that you bookmark that workspace URL
+
+All you have to do is open up the correct folder/files by clicking on the folder tree on the left hand side.
+
+For example, if you wanted to view the solution from the "Our First Express App" lesson, all you need to do is visit https://ide.c9.io/learnwithcolt/webdevbootcamp and then open the "IntroToExpress" folder and then open "FirstExpressApp", and you have access to all the files in the application.
