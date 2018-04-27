@@ -6,3 +6,8 @@
  </li>
 <% } %>
 
+<% posts.forEach(function(post){ %>
+ <li>
+     <%= post.title %> - <strong><%= post.author %></strong>
+ </li>
+<% }) %>
